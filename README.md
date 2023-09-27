@@ -1,4 +1,4 @@
-<img align="right" width="600px" height="400px" src="[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)">
+<img align="right"  src="[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)">
 <h1 align="center">Hi 👋, I'm marjan khormaeipour</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
